@@ -2,5 +2,8 @@
     "title":"Tiddler-Blue",
     "subTitle":"open for progress",
     "avatarUrl":"https://avatars.githubusercontent.com/u/182206233?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark",
 }

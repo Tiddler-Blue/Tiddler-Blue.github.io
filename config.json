@@ -6,4 +6,43 @@
     "themeMode":"manual",
     "dayTheme":"dark",
     "nightTheme":"dark-blue"
+
+  "components": [
+    {
+      "type": "textbox",
+      "id": "myTextBox",
+      "content": "This is a text box",
+      "position": {
+        "x": 50,
+        "y": 100
+      },
+      "size": {
+        "width": "300px",
+        "height": "100px"
+      },
+      "style": {
+        "border": "1px solid #000",
+        "backgroundColor": "#f0f0f0"
+      }
+    },
+    {
+      "type": "button",
+      "id": "myButton",
+      "text": "Click Me",
+      "position": {
+        "x": 100,
+        "y": 250
+      },
+      "size": {
+        "width": "150px",
+        "height": "50px"
+      },
+      "style": {
+        "backgroundColor": "#4CAF50",
+        "color": "#fff"
+      }
+    }
+  ]
+
+
 }
